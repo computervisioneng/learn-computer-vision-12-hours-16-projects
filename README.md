@@ -1,8 +1,13 @@
 # learn-computer-vision-12-hours-16-projects
 
-Learn computer vision in 12 hours with 16 projects !
 
-[![Watch the video](https://img.youtube.com/vi/lKLzz8Itpzo/0.jpg)](https://www.youtube.com/watch?v=lKLzz8Itpzo)
+
+<p align="center">
+<a href="https://www.youtube.com/watch?v=lKLzz8Itpzo">
+    <img width="600" src="https://utils-computervisiondeveloper.s3.amazonaws.com/thumbnails/with_play_button/12_hs_16_projects.jpg" alt="Watch the video">
+    </br>Watch on YouTube: Learn computer vision in 12 hours with 16 projects !
+</a>
+</p>
 
 ## projects
 
